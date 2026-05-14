@@ -1,0 +1,21 @@
+{
+	"id": "moneycheat",
+	"name": "金钱修改器",
+	"authors": [ "凉心惊梦" ],
+	"version": "0.1.1",
+	"description": [
+		"修改金钱使用"
+	],
+	"links": {
+		"github": "https://github.com/liangxin0/1.git"
+	},
+	"dependencies": {
+		// See https://devhints.io/semver for syntax.
+		"tower-networking-inc": "^0.10.16",
+		"luajit-support": "~0.2.0"
+	},
+	"dependencies_optional": {
+	},
+	"incompatibilities": {
+	}
+}
